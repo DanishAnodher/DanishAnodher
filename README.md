@@ -7,10 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danish-anodher-9a6575223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-anodher-9a6575223" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19723870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19723870" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code senpaiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code senpaiii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/danishkh253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danishkh253" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@__init__py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code senpaiii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/danishanodher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danishanodher" height="30" width="40" /></a>
 </p>
 
